@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report
 
-data_dir = r"C:\Users\Priyansh\Desktop\CLG\SKILLCRAFT\TASK 4\leapGestRecog\leapGestRecog"
+data_dir = r"C:\Users\SKILLCRAFT\TASK 4\leapGestRecog\leapGestRecog"
 
 X = []
 y = []
